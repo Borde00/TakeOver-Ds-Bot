@@ -118,9 +118,3 @@ Usa `/estado` desde Discord para verificar qué tienes instalado.
 | `DISCORD_TOKEN` | Token del bot de Discord |
 | `ALLOWED_CHANNEL_ID` | ID del canal donde se permiten los comandos (`0` = todos) |
 | `GUILD_ID` | ID del servidor para sincronizar slash commands (`0` = global) |
-
-> 🔴 **Nunca subas el `.env` real a GitHub.** Ya está incluido en `.gitignore`.
-
----
-
-## 📂 Estructura del proyecto
