@@ -61,7 +61,7 @@ Si lo instalas en otro directorio, actualiza la variable `cwd` en `bot.py`.
 ### 2. Clona este repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/takeovflow-bot
+git clone https://github.com/Borde00/TakeOver-Ds-Bot.git
 cd takeovflow-bot
 ```
 
@@ -82,17 +82,9 @@ nano .env
 ```env
 DISCORD_TOKEN=tu_token_aqui
 ALLOWED_CHANNEL_ID=id_del_canal_aqui
-GUILD_ID=id_del_servidor_aqui
 ```
 
-### 5. Ejecuta el instalador
-
-```bash
-chmod +x install.sh
-./install.sh
-```
-
-### 6. Arranca el bot
+### 5. Arranca el bot
 
 ```bash
 python3 bot.py
