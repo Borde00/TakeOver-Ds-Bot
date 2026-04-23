@@ -118,3 +118,13 @@ Usa `/estado` desde Discord para verificar qué tienes instalado.
 | `DISCORD_TOKEN` | Token del bot de Discord |
 | `ALLOWED_CHANNEL_ID` | ID del canal donde se permiten los comandos (`0` = todos) |
 | `GUILD_ID` | ID del servidor para sincronizar slash commands (`0` = global) |
+
+## ⚖️ Disclaimer
+
+> Este bot está diseñado para su uso con **fines educativos** o en **entornos aislados y controlados**, así como en programas de **bug bounty** con permiso explícito del objetivo. El uso no autorizado contra sistemas de terceros puede ser **ilegal**. El autor no se hace responsable del mal uso de esta herramienta.
+
+---
+
+<p align="center">
+  Este bot se utiliza con fines educativos o en entornos aislados · Powered by <a href="https://github.com/theoffsecgirl/takeovflow">takeovflow</a>
+</p>
